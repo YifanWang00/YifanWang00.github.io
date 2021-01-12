@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Wang Yifan"
-  avatar           : "profile.png"
-  bio              : "Junior Undergraduate ar ShangHai Jiao Tong University, a vegetable dog"
+  avatar           : "profile.jpg"
+  bio              : "Junior Undergraduate at ShangHai Jiao Tong University, a vegetable dog"
   location         : "ShangHai, China"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -111,7 +111,7 @@ author:
   tumblr           :
   twitter          : #"replacethistwitterhandle"
   vine             :
-  weibo            :
+  weibo            : "https://www.weibo.com/6664016412/profile?rightmod=1&wvr=6&mod=personinfo&is_all=1"
   xing             :
   youtube          :
   wikipedia        :
